@@ -10,7 +10,7 @@
 
 Projeto de reconstrução dos resultados do Google.<br>
 
-[Clique aqui para acessar o site.](https://scgui.github.io/resultados-google/)
+[Clique aqui para acessar o site.](https://scgui.github.io/Resultados-Google/)
 
 ## 🔧 Tecnologias
 
